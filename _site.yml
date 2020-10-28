@@ -5,10 +5,14 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Plotly"
+      href: plotly.html
+    - text: "Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<devikristina27@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/anamikadevi/
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
